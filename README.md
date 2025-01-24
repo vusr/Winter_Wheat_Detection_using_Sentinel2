@@ -12,7 +12,7 @@ This repository consists of source code for the winter wheat detection model usi
 * Sheridan
 * Sherman
 * Thomas
-* Wallace \
+* Wallace 
   
 We have selected the above 10 counties from Kansas because their weather is most similar to Armenia's. Weather similarity is calculated based on Cosine similarity and Euclidean similarity between the daily weather of these regions throughout 2023. Various experiments have been conducted to select the appropriate data and model.
 
