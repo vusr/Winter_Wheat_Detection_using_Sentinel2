@@ -1,0 +1,6 @@
+Test F1 Score: 0.8725
+Test Precision: 0.8939
+Test Recall: 0.8522
+Test Confusion Matrix:
+[[1539205   33671]
+ [  49180  283556]]
