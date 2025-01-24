@@ -25,4 +25,12 @@ We have selected the above 10 counties from Kansas because their weather is most
 * Code: All data preparation code for each of the experiments can be found in the data_preparation_scripts
 * Data preparation required a high amount of RAM and disk space. We have used a computer with 64GB of RAM.
 
-## Experiments and Results
+## Experiments and Results: (Different counties for train, val, and test)
+![table1](https://github.com/user-attachments/assets/f9ed9cfc-1a3d-4636-825e-bfc63d50c8e6)
+
+## Experiments and Results: (Training and testing on all counties)
+![table2](https://github.com/user-attachments/assets/b98b1c13-ced0-42cc-87fd-aa8f7135e0c8)
+
+## Model architecture:
+![architecture](https://github.com/user-attachments/assets/16010d8b-3596-434f-8750-d1b638c06078)
+
