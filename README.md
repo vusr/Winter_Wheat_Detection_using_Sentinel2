@@ -34,3 +34,23 @@ We have selected the above 10 counties from Kansas because their weather is most
 ## Model architecture:
 ![architecture](https://github.com/user-attachments/assets/16010d8b-3596-434f-8750-d1b638c06078)
 
+## Test result visualization:
+![test_data_Cheyenne_visualization](https://github.com/user-attachments/assets/f35cae10-decd-4385-bfd5-e563e453f89f)
+![test_data_Decatur_visualization](https://github.com/user-attachments/assets/c7bdee5b-3ea8-4c44-973f-726ece0bb6f6)
+![test_data_Greeley_visualization](https://github.com/user-attachments/assets/bfba2c7a-c741-44d8-ab14-6e23bfd0c5b1)
+![test_data_Norton_visualization](https://github.com/user-attachments/assets/c71f78f7-d20e-4b83-b662-999911249836)
+![test_data_Phillips_visualization](https://github.com/user-attachments/assets/3af80fef-f022-4df7-8ea3-9814c3ca50ed)
+![test_data_Rawlins_visualization](https://github.com/user-attachments/assets/4bfe0e1b-eb05-4120-a25b-82132db6f47b)
+![test_data_Sheridan_visualization](https://github.com/user-attachments/assets/9a3dd25b-ea87-4482-ae3c-705594b8979a)
+![test_data_Sherman_visualization](https://github.com/user-attachments/assets/9bd53464-3ca2-47d9-b065-3cb6e0a37a85)
+![test_data_Thomas_visualization](https://github.com/user-attachments/assets/df5bfc09-e8a9-4db6-8f6f-305d1faf6c5e)
+![test_data_Wallace_visualization](https://github.com/user-attachments/assets/4f1196e8-0faa-4fc8-95e7-3a55cb83d535)
+
+
+
+
+
+
+
+
+
